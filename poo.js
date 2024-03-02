@@ -1,31 +1,27 @@
 
 let almacen = [
     {
-        marca:'iphone',
-        precio:1500000,
-        garantia:true,
-        colores:{
-            o1:'Blanco',
-            o2:'negro',
-            o3:'azul',
-
+        marca: 'iPhone',
+        precio: 1500000,
+        garantia: true,
+        colores: {
+            opcion1: 'Metalizado',
+            opcion2: 'Dorado',
+            opcion3: 'Negro'
         },
-        almacenamiento: '512GB',
+        almacenamiento: '500 GB',
         camaraFrontal: true,
-        resolucionCamaraFrontal: '100 mpx'
+        resolucionCamaraFrontal: '100 Mpx',
     },
     {
-        marca:'samsung',
-        precio:2000000,
-        garantia:false,
-        colores:{
-            o1:'rosado',
-            o2:'amarillo',
-            o3:'azul',
-
-        }
-        
+        marca: 'Samsung',
+        precio: 2000000,
+        garantia: false,
+        colores: {
+            opcion1: 'Rosado',
+            opcion2: 'Azul',
+            opcion3: 'Blanco'
+        } 
     }
-     
 ];
 
